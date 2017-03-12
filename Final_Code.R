@@ -1,4 +1,11 @@
-setwd("C:\\Users\\HP\\Downloads")
+##################################   Knocktober'16 ###########################
+## A very Quick Code and Submission.
+## author - AshwinthPS and Shashank Hegde
+## Eval Metric  - ROC -AUC
+## Score - 0.6899
+## Rank - 120
+
+setwd("C:\\Users\\HP\\Knocktober")
 getwd()
 
 raw_data <- read.csv("Train_Merged 3.csv",na.strings = "",stringsAsFactors = T)
