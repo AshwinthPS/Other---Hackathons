@@ -1,2 +1,2 @@
-# Kaggle--MML-17
-Kaggle Competiton - MML -17 - 0.572604 logloss
+# AV-Knocktober'16
+AV - Knocktober'16 - AUC : 0.6899
