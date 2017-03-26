@@ -1,2 +1,2 @@
-# AV-Knocktober'16
-AV - Knocktober'16 - AUC : 0.6899
+# HackerearthMLChallenge
+HackerearthMLChallenge - AUC : 0.94745 - Leaderboard #71
